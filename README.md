@@ -20,10 +20,11 @@ Setting up required things:
 # Docker compose:
 
 install the docker-compose before you use it. you can create and edit this file using vi docker-compose.yml
+check out [ss1(1) & ss1(4)]
 
 # Docker-compose up:
 
-As in the picture use (#docker-compose up) to complete the set-up
+As in the picture [ss1(2)] use (#docker-compose up) to complete the set-up
 Drupal:latest:
 
 You can browser and type (#localhost:80 and done you will be able to see your drupal
